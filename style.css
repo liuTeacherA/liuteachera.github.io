@@ -1,0 +1,58 @@
+/* background image gone */
+body {
+  background-image: url(https://scontent.fbkk5-2.fna.fbcdn.net/v/t1.0-9/28576695_2497473830478053_7320709071673049226_n.jpg?oh=3657e47df46ae91c962220e4b5915264&oe=5B027809);
+}
+
+.framework {
+  background-color: #E6E6FA;
+  width: 1366px;
+  height: 768px;
+  margin: auto;
+  position: relative;
+}
+
+.crosstexture {
+  height: 768px;
+  position: absolute;
+  clip: rect(0px, 260px, 768px, 0px);
+  /* opacity: 0.5;  */
+}
+
+.phitakhon {
+  margin-top: 10px;
+  margin-left: 30px;
+  position: relative;
+}
+
+.menu {
+    position: relative;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0px; 
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 200px;
+  height: 50px;
+  background-color: #f1f1f1;
+  text-decoration: none;
+  text-align: center;
+  font-family: 'East Sea Dokdo', cursive;
+  font-size: 30px;
+  color: #000000;
+  border: 2px solid black;
+  border-radius: 12px;
+  padding: 0px 0px;  
+   margin-top: 30px; 
+   margin-left: 28px;  
+}
+
+li a:hover {
+  background-color: #248f24;
+  color: #ffffff;
+}
+
