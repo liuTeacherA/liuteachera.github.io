@@ -1,14 +1,15 @@
 /* background image gone */
 body {
-  background-image: url(https://scontent.fbkk5-2.fna.fbcdn.net/v/t1.0-9/28576695_2497473830478053_7320709071673049226_n.jpg?oh=3657e47df46ae91c962220e4b5915264&oe=5B027809);
+  background-color: #155151;
+  /* background-image: url(g:/task/tutor/programming/css/resources/background_02_sakura_e01.png); */
 }
 
-.framework {
-  background-color: #E6E6FA;
+.framework>img{
+  /* background-color: #E6E6FA; */
   width: 1366px;
   height: 768px;
   margin: auto;
-  position: relative;
+  position: absolute;
 }
 
 .crosstexture {
