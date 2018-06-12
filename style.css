@@ -3,7 +3,7 @@ body {
 }
 
 .framework {
-  background-color: #E6E6FA;
+  background-color: #00b38f;
   width: 1366px;
   height: 768px;
   margin: auto;
@@ -14,7 +14,6 @@ body {
   height: 768px;
   position: absolute;
   clip: rect(0px, 260px, 768px, 0px);
-  /* opacity: 0.5;  */
 }
 
 .phitakhon {
@@ -43,7 +42,7 @@ li a {
   font-family: 'East Sea Dokdo', cursive;
   font-size: 30px;
   color: #000000;
-  border: 2px solid black;
+  border: 4px solid #16664e;
   border-radius: 12px;
   padding: 0px 0px;  
    margin-top: 30px; 
@@ -51,7 +50,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #248f24;
+  background-color: #7cce7c;
   color: #ffffff;
 }
 
