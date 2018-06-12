@@ -1,7 +1,5 @@
-/* background image gone */
 body {
-  background-color: #155151;
-  /* background-image: url(g:/task/tutor/programming/css/resources/background_02_sakura_e01.png); */
+  background-image: url(https://github.com/liuTeacherA/liuteachera.github.io/blob/master/background_02_sakura_e01.png?raw=true);
 }
 
 .framework {
@@ -9,7 +7,7 @@ body {
   width: 1366px;
   height: 768px;
   margin: auto;
-  position: absolute;
+  position: relative;
 }
 
 .crosstexture {
