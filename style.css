@@ -4,8 +4,8 @@ body {
   /* background-image: url(g:/task/tutor/programming/css/resources/background_02_sakura_e01.png); */
 }
 
-.framework>img{
-  /* background-color: #E6E6FA; */
+.framework {
+  background-color: #E6E6FA;
   width: 1366px;
   height: 768px;
   margin: auto;
