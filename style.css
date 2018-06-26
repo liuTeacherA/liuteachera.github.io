@@ -54,3 +54,28 @@ li a:hover {
   color: #ffffff;
 }
 
+.gallery_container {
+  position: absolute;
+  left: 313px;
+  top: 0px;
+  width: 900px;
+  height: 668px;
+  padding: 50px;
+  background-color: #669999;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 309px 309px;
+  grid-gap: 50px;
+}
+
+.gallery_container div {
+  background-color: #26734d;
+  padding: 10px;
+}
+
+.gallery_container img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8%;
+}
